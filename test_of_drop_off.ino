@@ -43,7 +43,7 @@
 #define slowspeed  130
 #define quickspeed  200
 #define quickturn   200
-#define stopDistance 60
+#define stopDistance 65
 #define cleanDistance 30
 #define cleanTurnDistance 10
 #define turnDistance 30
